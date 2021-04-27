@@ -1,2 +1,1 @@
-Miller-Rabin Primality Test
 This is python realization of Miller-Rabin primality test with generation 512 odd number to test it. the program is executed until the number is composite with probability P = 1/(4^k), where k is number of iterations.
